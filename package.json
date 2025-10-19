@@ -1,0 +1,34 @@
+{
+  "name": "visaflow",
+  "version": "1.0.0",
+  "description": "visa management app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zedxot/visaflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zedxot/visaflow/issues"
+  },
+  "homepage": "https://github.com/zedxot/visaflow#readme",
+  "dependencies": {
+    "lucide-react": "^0.546.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.4",
+    "@babel/preset-react": "^7.27.1",
+    "babel-loader": "^10.0.0",
+    "webpack": "^5.102.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
